@@ -1,0 +1,15 @@
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\bin\Debug\UserApi.Data.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\bin\Debug\UserApi.Data.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\bin\Debug\UserApi.Entities.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\bin\Debug\UserApi.Entities.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\obj\Debug\UserApi.Data.csprojResolveAssemblyReference.cache
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\obj\Debug\UserApi.Data.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Data\obj\Debug\UserApi.Data.pdb
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\bin\Debug\UserApi.Data.dll
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\bin\Debug\UserApi.Data.pdb
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\bin\Debug\UserApi.Entities.dll
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\bin\Debug\UserApi.Entities.pdb
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\obj\Debug\UserApi.Data.csprojAssemblyReference.cache
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\obj\Debug\UserApi.Data.csproj.CopyComplete
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\obj\Debug\UserApi.Data.dll
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Data\obj\Debug\UserApi.Data.pdb

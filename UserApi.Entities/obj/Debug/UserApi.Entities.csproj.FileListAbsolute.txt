@@ -1,0 +1,9 @@
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\bin\Debug\UserApi.Entities.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\bin\Debug\UserApi.Entities.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\obj\Debug\UserApi.Entities.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\obj\Debug\UserApi.Entities.pdb
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Entities\bin\Debug\UserApi.Entities.dll
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Entities\bin\Debug\UserApi.Entities.pdb
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Entities\obj\Debug\UserApi.Entities.csprojAssemblyReference.cache
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Entities\obj\Debug\UserApi.Entities.dll
+C:\Learning_Udemy\UserApi.Api-third-feature\UserApi.Entities\obj\Debug\UserApi.Entities.pdb
